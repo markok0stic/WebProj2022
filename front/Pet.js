@@ -29,14 +29,7 @@ export class Pet {
 
         let img = document.createElement('img');
         img.className="images";
-        if (this.imgURL.includes("http") || this.imgURL.includes(".png")|| this.imgURL.includes(".jpg") || this.imgURL.includes("https"))
-            {
-                img.src = this.imgURL;
-            }
-        else
-        {
-            img.src = "";
-        }
+        img.src = "petimgs/"+this.imgURL;
         divBlock.appendChild(img);
         let fixedel = [];
         fixedel.push(this.petName);

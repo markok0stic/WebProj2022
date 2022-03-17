@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+oYpfLElZnetBCqVsso//hHtffDv5TQoJfhw2HeeO0QiBFGX6+w3TmkG5PskcfvFD1LOe4+P98lbyVa4VPPAHw==",
+  "dgSpecHash": "J6fx6Yw7eDLNU9mujX4rIS+O5VIo3j2tQH9lRdKPfl8bfeHfrWTXt+rRuioJU73UerNuozGE84rhDtRmPS8VXQ==",
   "success": true,
-  "projectFilePath": "D:\\webprog\\webapi\\webapi.csproj",
+  "projectFilePath": "D:\\WebProj2022\\webapi\\webapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mkost\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mkost\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

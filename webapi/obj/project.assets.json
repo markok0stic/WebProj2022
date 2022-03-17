@@ -5948,11 +5948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\webprog\\webapi\\webapi.csproj",
+      "projectUniqueName": "D:\\WebProj2022\\webapi\\webapi.csproj",
       "projectName": "webapi",
-      "projectPath": "D:\\webprog\\webapi\\webapi.csproj",
+      "projectPath": "D:\\WebProj2022\\webapi\\webapi.csproj",
       "packagesPath": "C:\\Users\\mkost\\.nuget\\packages\\",
-      "outputPath": "D:\\webprog\\webapi\\obj\\",
+      "outputPath": "D:\\WebProj2022\\webapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
